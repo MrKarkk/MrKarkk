@@ -1,13 +1,5 @@
 <!-- Профильный README для github.com/MrKarkk -->
 
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/MrKarkk?style=for-the-badge)](https://github.com/MrKarkk?tab=followers)
-[![Stars](https://img.shields.io/github/stars/MrKarkk?style=for-the-badge)](https://github.com/MrKarkk?tab=stars)
-![Profile Views](https://komarev.com/ghpvc/?username=MrKarkk&style=for-the-badge)
-
-</div>
-
 ## 🔧 Стек и инструменты
 
 ### Языки программирования:
